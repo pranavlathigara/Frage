@@ -27,7 +27,7 @@ Integrated with Quora & Stack Exchange
 </b>
 
 
-<img src="https://raw.github.com/saitejdandge/Frage/Screenshots/screener_20161011(14_11_57).png" width="200" />
+<img src="https://raw.github.com/saitejdandge/Frage/master/Screenshots/screener_20161011(14_11_57).png" width="200" />
 <img src="https://raw.github.com/saitejdandge/Frage/Screenshots/screener_20160919(00_14_25) (1).png" width="200"/>
 <img src="https://raw.github.com/saitejdandge/Frage/Screenshots/screener_20161011(14_30_01).png" width="200"/>
 <img src="https://raw.github.com/saitejdandge/Frage/Screenshots/screener_20161011(14_47_11).png" width="200"/>
